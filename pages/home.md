@@ -3,7 +3,7 @@
 ---
 
 # {{ app:project_name }}
-The Embioptera Species File works to build a comprehensive source for knowledge about the world’s webspinners. Information found here includes valid names, synonyms, bibliographic data, specimen data, images, and distributions for ice crawlers of the world. Our site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
+The Embioptera Species File works to build a comprehensive source for knowledge about the world’s webspinners. Information found here includes valid names, synonyms, bibliographic data, specimen data, images, and distributions for webspinners of the world. Our site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
 
 ## Search
 
