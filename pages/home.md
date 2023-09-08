@@ -11,7 +11,7 @@ The Embioptera Species File works to build a comprehensive source for knowledge 
 
 Explore!
 
-Try searching for species _[Archembia batesi](http://embioptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1172316)_, or start at Genus _[Archembia](http://embioptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1172313),_  or Family _[Archembiidae](http://embioptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1172305)._
+Try searching for species _Archembia batesi_, or start your exploration at Genus [Archembia]({{app:project_url}}/otu/916001/overview),  or Family [Archembiidae]({{app:project_url}}/otu/915989/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
