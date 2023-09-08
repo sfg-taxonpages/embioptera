@@ -3,6 +3,6 @@ metadata:
   - name: description
     content: The Embioptera Species File is a taxonomic, nomenclatural, and bibliographic database of the webspinners of the world, including all extant and fossil taxa.
   - name: keywords
-    content: taxonomy, species, Species File Group, SFG, Embioptera, Embiodea, Embiidina, webspinners, taxonpages, Embioptera Species File.
+    content: taxonomy, species, Species File Group, Embioptera, Embiodea, Embiidina, webspinners, taxonpages, Embioptera Species File
   - name: robots
     content: follow
