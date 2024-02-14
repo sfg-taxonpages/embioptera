@@ -19,5 +19,5 @@ See our [About](about) page for an [overview](about#overview) of the project, it
 ## Announcements
 
 ### Sept. 15, 2023: Welcome to our new Embioptera Species File Website
-<p>We look forward to hearing from you about your experiences with our new features as well as how you use the information you find here.</p>orward to hearing from you about your experiences with our new features as well as how you use the information you find here.</p>
+<p>We look forward to hearing from you about your experiences with our new features as well as how you use the information you find here. Forward to hearing from you about your experiences with our new features as well as how you use the information you find here.</p>
 
